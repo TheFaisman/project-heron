@@ -1,5 +1,5 @@
 :root{
-  --bg: #ffffff;
+  --bg: #ffedda;
   --text: #111217;
   --muted: #6b6b75;
   --accent: #0a7a6f; /* change this to suit your brand */
@@ -35,7 +35,7 @@ nav a{margin-left:18px;text-decoration:none;color:var(--muted);font-weight:600}
 .hero h1{font-family:"Playfair Display", serif;font-size:2.2rem;margin:0}
 .hero p.lead{color:var(--muted);font-size:1.05rem}
 
-.card{background:#fff;padding:20px;border-radius:var(--radius);box-shadow:0 8px 24px rgba(15,15,15,0.04)}
+.card{background:#ffeedd;padding:20px;border-radius:var(--radius);box-shadow:0 8px 24px rgba(15, 15, 15, 0.178)}
 
 .services{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;padding:36px 0}
 .service h3{margin:0 0 8px 0}
